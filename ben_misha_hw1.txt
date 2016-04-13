@@ -1,0 +1,41 @@
+
+
+Hi Ben,
+
+Yesterday we were playing around with the arithmetic series:
+
+S(n) = 1 + 2 + 3 + ... + n
+
+and after looking for different patternds, discovered the formula:
+
+S(n) = (n+1)*n/2
+
+We broke it down into cases where n is even and when n is odd, and it turned 
+
+out that the formula is the same in both cases.
+
+A) For your homework, I'd like you to try to discover a formula for:
+
+odd(n) = 1 + 3 + 5 + 7 + .... + n
+
+where n is always an odd number. 
+
+B) Once you get that, can you discover a formula for sums of even numbers:
+
+even(n) = 2 + 4 + 6 + .... + n
+
+C) What is 1 + 3 + 5 + 7 + ..... + 101
+
+D) What is 2 + 4 + 6 + .. + 100
+
+E) There are formulas even for things like sums of square numbers, i.e.,
+
+1*1 + 2*2 + 3*3 + 4*4 + ...
+
+If you have the time, try to discover this formula.  Next time we will see 
+
+how we can use a computer to add up series like this very quickly without 
+
+knowing the "formula". :)
+
+Misha
