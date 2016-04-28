@@ -1,0 +1,3 @@
+N = float(input("Enter a number: "))
+square  = N*N
+print('The square of ', N, ' is ', square)
